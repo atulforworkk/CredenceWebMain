@@ -1,14 +1,11 @@
 {
   "compilerOptions": {
-<<<<<<< HEAD
     "baseUrl": ".",
     "paths": {
       "@/*": [
         "./src/*"
       ]
     },
-=======
->>>>>>> 757bfa279db42a0db0b91b5fc7ddfa5e1ef96276
     "target": "ES2020",
     "useDefineForClassFields": true,
     "lib": ["ES2020", "DOM", "DOM.Iterable"],
